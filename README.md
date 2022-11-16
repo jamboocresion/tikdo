@@ -4,6 +4,9 @@ This is BOT Telegram downloader TikTok/Douyin. Download videos without watermark
 
 # How to deploy?
 
+### Host on Heroku
+<p><a href="https://heroku.com/deploy?template=https://github.com/jamboocresion/tikdo/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+
 ## Installing requirements
 
 - Clone this repo :
